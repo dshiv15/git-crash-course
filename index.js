@@ -9,3 +9,5 @@ const name1='dixit'
 function MyName1(){
     const age=22;
 }
+
+console.log("Radhi")
