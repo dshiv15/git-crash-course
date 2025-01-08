@@ -1,5 +1,5 @@
 const name='shiv'
-
+const name1="radhi"
 function MyName(){
     const age=32;
 }
